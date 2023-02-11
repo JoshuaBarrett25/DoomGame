@@ -4,15 +4,12 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    GameObject player;
-    public Camera fpsCamera;
     public CharacterController controller;
-
 
     public float speed = 12f;
     public float gravity = -9.81f;
 
-    Vector3 velocity;
+    public Vector3 velocity;
 
     public Transform ground;
     public float groundDistance = 0.4f;
@@ -20,12 +17,7 @@ public class PlayerMovement : MonoBehaviour
 
     bool grounded;
 
-    private void Start()
-    {
-        player = GameObject.FindGameObjectWithTag("Player");
-        fpsCamera = Camera.main;
-    }
-
+    public Vector3 move;
 
     // Update is called once per frame
     void Update()
@@ -40,12 +32,14 @@ public class PlayerMovement : MonoBehaviour
         float x = Input.GetAxis("Horizontal");
         float z = Input.GetAxis("Vertical");
 
-        Vector3 move = transform.right * x + transform.forward * z;
+        move = transform.right * x + transform.forward * z;
 
         controller.Move(move * speed * Time.deltaTime);
 
         velocity.y += gravity * Time.deltaTime;
 
         controller.Move(velocity * Time.deltaTime);
+
+        
     }
 }
