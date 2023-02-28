@@ -1,0 +1,2499 @@
+fileFormatVersion: 2
+guid: 722b82bdd9ebb374c8a933881db7eef8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 764
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f02fc621321a3449a0eb2ae0cbaae98
+      internalID: -1092607211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 764
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd65043b08d0b1147b1ecc81dda3fe6b
+      internalID: -1181872759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 764
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6820464d12d103e4fa1c494c2480fd6e
+      internalID: -1195199010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 764
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403c4e90417bd764b92e49b8dc86b354
+      internalID: 23879858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 764
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dada86042888a4ca77ef33f7e28be1
+      internalID: 317926583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 764
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7726d2cdb862914a917e355a7a25c8c
+      internalID: -2023372294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_6
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 764
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b863a0c2423881b42b526544a130c37e
+      internalID: -415560093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 764
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464002ec0413a1646b5b5163092d43f5
+      internalID: -2033458470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_8
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 764
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a007f43526ca7e45aa15b319b98e218
+      internalID: -264797232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 695
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20e696b314216c47958e3ba6fdb46b1
+      internalID: -778653655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 695
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d64c548917196a4dac9db0cd8b69573
+      internalID: -921405876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 695
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ec72ef94127c74d9150e7f1068493f
+      internalID: -1019621726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 695
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677a33e0211a7a6468baa3c6f22580da
+      internalID: -1361704675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 695
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af24fa654a3f6845997f2f815bde1f8
+      internalID: 307899769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 695
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe97173331b57d42b908d5b4c47a191
+      internalID: 1843722433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_15
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 695
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fcfc8e68caae04784ab8492d1185f6
+      internalID: 565565645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_16
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 695
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff945c8923069c34b905a876bc10b6fc
+      internalID: 977422485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_17
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 695
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4d3c0e761d51f4d928d29b362eacf9
+      internalID: 1435538053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 626
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cf8372a4ec7174cbe50f4c9b9e9a3e
+      internalID: -1746380138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 626
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3170a1c18bd5c2d42b29ab1ca12779a9
+      internalID: -961122201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 626
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6b419f43062d44ca89d3cc2835624d
+      internalID: 954659712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_21
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 626
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1827c1bc08c91ee4abf0149ec70b89a0
+      internalID: 1227161611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 626
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefea62c089b7ff4385742d71de7b8bc
+      internalID: 1757606949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 626
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7625b91eeba1acc48a751d95ba43b018
+      internalID: -1031912578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_24
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 626
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdbb11fcb79b854bbf9edb6db04d34f
+      internalID: 151909814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_25
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 626
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace7a4383623a174bb652b10be61789b
+      internalID: -1400693643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_26
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 626
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e4576a3a07083479377ba7cd8629af
+      internalID: -1778156259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 557
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f48f7cce98a62f46bf7e2fc14f8d5be
+      internalID: 1415369589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 557
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a4f75311deff8428948d8fc6bca987
+      internalID: -67132152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_29
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 557
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41fefec2c60d8a41a4bacd079af1cf5
+      internalID: -1607750239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 557
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b9ee6a97793d740a4a630bf181045e
+      internalID: -1774606479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_31
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 557
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8251f1f58cb41542bfea176378b2440
+      internalID: 242846533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_32
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 557
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba9c34f808b5254b8491ec84d683fb5
+      internalID: -1982664090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_33
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 557
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2798142a416fa438e5cd5251ff94ff
+      internalID: 1756506288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_34
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 557
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7539a55a7445949a4d23007b12f724
+      internalID: -74184444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_35
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 557
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e25b2be84e1ba2439907fcc5b00ebe2
+      internalID: -2068005829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac40f2674963ad4fb36925f7b335799
+      internalID: 909546126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_37
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a06277f1b65d74a8201f3a118a0f05
+      internalID: 268943358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7137065e1025c498312e39947760f7
+      internalID: 519032273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d927c107adb447143838e3e6ba273bdd
+      internalID: -600245025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_40
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead90d700c2b45842909abee946c5232
+      internalID: -1589776043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_41
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b0d55f07f8f12459995df91f6ec1a9
+      internalID: 2010825999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_42
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdc7810f669fd840aacb199bbaaea6e
+      internalID: 868982232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_43
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43deb45d56c01124790321cc8832035e
+      internalID: 1764953498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_44
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d18d82481b4165469a2bf6b49e86b66
+      internalID: 79233753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 419
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab458e4830032f34abeb7ba3cb45773a
+      internalID: 1216311015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 419
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4ec3c457611e54a9f59aae532ca390
+      internalID: -577348141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_47
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 419
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ffa000f23ce2941b5a4389e8f95b47
+      internalID: 1031553103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_48
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 419
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e055775c88438954f8c02112a45d01e6
+      internalID: -1197964961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_49
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 419
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b571a0312b63d245aae040f9ea9d522
+      internalID: -577297175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_50
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 419
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739d1e02ca442b44499c31bf34c01c45
+      internalID: 1667496992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_51
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 419
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d06e7591d18422468021a8df4765939
+      internalID: 624854314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_52
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 419
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbde29fb9605934f9f02f256c37bda2
+      internalID: -1395992760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_53
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 419
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93db68b75e8f75c4791f193e06a6beac
+      internalID: -1787162677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67c6fe18e1d93d4fb3ede7b4bb302da
+      internalID: 948573956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_55
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fc7c10d2dd00341893483bca111f64
+      internalID: -312572367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_56
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabf4b229cf11c446a77a860778bd749
+      internalID: 1920129308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_57
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be12e2381012198459db96d6075fc42e
+      internalID: -1243561257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_58
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c7012568be97d4baf5b8841b3483be
+      internalID: 1361827053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_59
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce46e6e34f3cef4b84b46751a94267f
+      internalID: -1064420071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_60
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122f967867ecc9e42a7db527e39cdd06
+      internalID: -217107161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_61
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0049ebf3a50102b4686792b78ba2e580
+      internalID: 1100607164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_62
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4a4e42b9e2e7844b99a2ef9f84f1e4
+      internalID: 6793627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_63
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0a1c8a8fa313e4ab030fb947129b81
+      internalID: 1451103727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_64
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93418dee41b078428f2d4bdfaf9e8fb
+      internalID: -532170470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_65
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185a58d9145792b4b99806aa830b05e6
+      internalID: -507001309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_66
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5c05f61f5e27347a95c9ccade8831f
+      internalID: 338942407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_67
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3658b3285a5e7114bbf4c6aca84d51ea
+      internalID: 1300389127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_68
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0ea97614f5f934ab886330fc371e48
+      internalID: -2106486187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_69
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6293c30ce47583408197140084f477b
+      internalID: -1935522678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_70
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74c17dd34c4a41429589d9d7ca45b79
+      internalID: 2039065601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_71
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 281
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826c85172b7e30348b7a566c4c9950dc
+      internalID: -848193402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 212
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac402635e7f79fc47acf35058065f4f8
+      internalID: 2098290215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_73
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 212
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34156337abd7cba4b90e9e6322ea8e52
+      internalID: -1066081768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_74
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 212
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a04eff1e96c3c498c43d08124ea912
+      internalID: -2031348833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_75
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 212
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb80c5980cf5384bbe3cc8ea22c8769
+      internalID: 820320122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_76
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 212
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860fcd8376c159a45b3eb4d90e6b3b28
+      internalID: 1772722622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_77
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 212
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359c13042e869a644ac1b40ab303c3a6
+      internalID: -1451236022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_78
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 212
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0458837b304e240a9b9151cd768d54
+      internalID: 1782614030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_79
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 212
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a161e3e2765de054498cc474e7569f96
+      internalID: 1846962591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_80
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 212
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3664e0d88c03a45925b2acf988f7c9
+      internalID: 1884592878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_81
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6f52d9bea1a6544b29917c3e11b7a0
+      internalID: -1143616218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_82
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f12d696a121e449807077e1828e878
+      internalID: 358638653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_83
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87bcbc7664ed47418f87f2dc4e8a574
+      internalID: -1121822506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_84
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a45edfb59f9d78449951e9036dd08e5
+      internalID: -677447745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_85
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1438214f9833ef645bec412e0a92f4fb
+      internalID: -1736488979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_86
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfec464b8cf2fc499ef80f1dd0c339d
+      internalID: 1284488706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_87
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adc679ac1c309c41b7262f355e02289
+      internalID: -1441221629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_88
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04309bfbfa819b244b0187763f0b4698
+      internalID: -766161064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_89
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 143
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a542b03247d8942b060468edb1415e
+      internalID: -573557713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4d0aa0b901e7440885b8defb602b78
+      internalID: 1700979987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_91
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ec26c311c144345aea1185d8f8c1fb
+      internalID: -1005993347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_92
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775414a1d26a26c4580db523a6c288e7
+      internalID: -94286843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_93
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adff4d8305266df4c80646f18b832b9f
+      internalID: -553525146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_94
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18f1829ea8b20b49a7b5dccf0aa761e
+      internalID: 436771758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_95
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d283ed752636345b9e4d914f9cf868
+      internalID: 646240747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_96
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ad177263e0ad74cb92cc6b9bd1adca
+      internalID: 324292072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_97
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4118a0a5691bc1428b4c37fc2e3da4c
+      internalID: -1898242288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_98
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 74
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0434df952e2b81e46900243ebab95731
+      internalID: -282289641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_99
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d02c5f69caa17945afc4d9716bb1e73
+      internalID: 1782823814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_100
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc8b4e5d60b2fa4097b25524e8918d6
+      internalID: 1049110961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_101
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2723f710c48d74940acfc7ff09e13618
+      internalID: -497728250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_102
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373218c23c433ee43b9b1e127c89385b
+      internalID: 1332246668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_103
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a94907cebc145846934acb94f376459
+      internalID: 2115451644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_104
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e6f25538417ff47a222a867f7fbe9a
+      internalID: -441380152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_105
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf94aa56d0e23947b5af0166671ceb4
+      internalID: 2061857357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_106
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce95c8c07b95824a82332065d9e795c
+      internalID: 1951876566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - DOOM - Floor Textures_107
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef70e2018c9a06444900ce827ef09a8d
+      internalID: -691629251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9ae69d108c5e95b45a55274e9a884eea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - DOOM - Floor Textures_89: -573557713
+      PC Computer - DOOM - Floor Textures_44: 79233753
+      PC Computer - DOOM - Floor Textures_59: -1064420071
+      PC Computer - DOOM - Floor Textures_50: 1667496992
+      PC Computer - DOOM - Floor Textures_82: 358638653
+      PC Computer - DOOM - Floor Textures_28: -67132152
+      PC Computer - DOOM - Floor Textures_24: 151909814
+      PC Computer - DOOM - Floor Textures_94: 436771758
+      PC Computer - DOOM - Floor Textures_20: 954659712
+      PC Computer - DOOM - Floor Textures_1: -1181872759
+      PC Computer - DOOM - Floor Textures_80: 1884592878
+      PC Computer - DOOM - Floor Textures_43: 1764953498
+      PC Computer - DOOM - Floor Textures_47: 1031553103
+      PC Computer - DOOM - Floor Textures_102: 1332246668
+      PC Computer - DOOM - Floor Textures_73: -1066081768
+      PC Computer - DOOM - Floor Textures_66: 338942407
+      PC Computer - DOOM - Floor Textures_29: -1607750239
+      PC Computer - DOOM - Floor Textures_12: -1361704675
+      PC Computer - DOOM - Floor Textures_85: -1736488979
+      PC Computer - DOOM - Floor Textures_38: 519032273
+      PC Computer - DOOM - Floor Textures_99: 1782823814
+      PC Computer - DOOM - Floor Textures_105: 2061857357
+      PC Computer - DOOM - Floor Textures_32: -1982664090
+      PC Computer - DOOM - Floor Textures_70: 2039065601
+      PC Computer - DOOM - Floor Textures_91: -1005993347
+      PC Computer - DOOM - Floor Textures_107: -691629251
+      PC Computer - DOOM - Floor Textures_35: -2068005829
+      PC Computer - DOOM - Floor Textures_67: 1300389127
+      PC Computer - DOOM - Floor Textures_19: -961122201
+      PC Computer - DOOM - Floor Textures_60: -217107161
+      PC Computer - DOOM - Floor Textures_9: -778653655
+      PC Computer - DOOM - Floor Textures_95: 646240747
+      PC Computer - DOOM - Floor Textures_25: -1400693643
+      PC Computer - DOOM - Floor Textures_22: 1757606949
+      PC Computer - DOOM - Floor Textures_15: 565565645
+      PC Computer - DOOM - Floor Textures_30: -1774606479
+      PC Computer - DOOM - Floor Textures_14: 1843722433
+      PC Computer - DOOM - Floor Textures_39: -600245025
+      PC Computer - DOOM - Floor Textures_63: 1451103727
+      PC Computer - DOOM - Floor Textures_52: -1395992760
+      PC Computer - DOOM - Floor Textures_98: -282289641
+      PC Computer - DOOM - Floor Textures_21: 1227161611
+      PC Computer - DOOM - Floor Textures_58: 1361827053
+      PC Computer - DOOM - Floor Textures_79: 1846962591
+      PC Computer - DOOM - Floor Textures_6: -415560093
+      PC Computer - DOOM - Floor Textures_5: -2023372294
+      PC Computer - DOOM - Floor Textures_75: 820320122
+      PC Computer - DOOM - Floor Textures_72: 2098290215
+      PC Computer - DOOM - Floor Textures_93: -553525146
+      PC Computer - DOOM - Floor Textures_2: -1195199010
+      PC Computer - DOOM - Floor Textures_64: -532170470
+      PC Computer - DOOM - Floor Textures_78: 1782614030
+      PC Computer - DOOM - Floor Textures_106: 1951876566
+      PC Computer - DOOM - Floor Textures_23: -1031912578
+      PC Computer - DOOM - Floor Textures_100: 1049110961
+      PC Computer - DOOM - Floor Textures_46: -577348141
+      PC Computer - DOOM - Floor Textures_3: 23879858
+      PC Computer - DOOM - Floor Textures_74: -2031348833
+      PC Computer - DOOM - Floor Textures_13: 307899769
+      PC Computer - DOOM - Floor Textures_42: 868982232
+      PC Computer - DOOM - Floor Textures_48: -1197964961
+      PC Computer - DOOM - Floor Textures_92: -94286843
+      PC Computer - DOOM - Floor Textures_97: -1898242288
+      PC Computer - DOOM - Floor Textures_36: 909546126
+      PC Computer - DOOM - Floor Textures_33: 1756506288
+      PC Computer - DOOM - Floor Textures_84: -677447745
+      PC Computer - DOOM - Floor Textures_49: -577297175
+      PC Computer - DOOM - Floor Textures_56: 1920129308
+      PC Computer - DOOM - Floor Textures_0: -1092607211
+      PC Computer - DOOM - Floor Textures_17: 1435538053
+      PC Computer - DOOM - Floor Textures_11: -1019621726
+      PC Computer - DOOM - Floor Textures_18: -1746380138
+      PC Computer - DOOM - Floor Textures_26: -1778156259
+      PC Computer - DOOM - Floor Textures_54: 948573956
+      PC Computer - DOOM - Floor Textures_55: -312572367
+      PC Computer - DOOM - Floor Textures_4: 317926583
+      PC Computer - DOOM - Floor Textures_41: 2010825999
+      PC Computer - DOOM - Floor Textures_62: 6793627
+      PC Computer - DOOM - Floor Textures_69: -1935522678
+      PC Computer - DOOM - Floor Textures_40: -1589776043
+      PC Computer - DOOM - Floor Textures_7: -2033458470
+      PC Computer - DOOM - Floor Textures_65: -507001309
+      PC Computer - DOOM - Floor Textures_76: 1772722622
+      PC Computer - DOOM - Floor Textures_90: 1700979987
+      PC Computer - DOOM - Floor Textures_57: -1243561257
+      PC Computer - DOOM - Floor Textures_103: 2115451644
+      PC Computer - DOOM - Floor Textures_10: -921405876
+      PC Computer - DOOM - Floor Textures_27: 1415369589
+      PC Computer - DOOM - Floor Textures_77: -1451236022
+      PC Computer - DOOM - Floor Textures_53: -1787162677
+      PC Computer - DOOM - Floor Textures_104: -441380152
+      PC Computer - DOOM - Floor Textures_81: -1143616218
+      PC Computer - DOOM - Floor Textures_16: 977422485
+      PC Computer - DOOM - Floor Textures_71: -848193402
+      PC Computer - DOOM - Floor Textures_68: -2106486187
+      PC Computer - DOOM - Floor Textures_31: 242846533
+      PC Computer - DOOM - Floor Textures_45: 1216311015
+      PC Computer - DOOM - Floor Textures_61: 1100607164
+      PC Computer - DOOM - Floor Textures_8: -264797232
+      PC Computer - DOOM - Floor Textures_51: 624854314
+      PC Computer - DOOM - Floor Textures_83: -1121822506
+      PC Computer - DOOM - Floor Textures_101: -497728250
+      PC Computer - DOOM - Floor Textures_96: 324292072
+      PC Computer - DOOM - Floor Textures_34: -74184444
+      PC Computer - DOOM - Floor Textures_87: -1441221629
+      PC Computer - DOOM - Floor Textures_37: 268943358
+      PC Computer - DOOM - Floor Textures_86: 1284488706
+      PC Computer - DOOM - Floor Textures_88: -766161064
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
