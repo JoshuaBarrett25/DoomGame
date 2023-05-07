@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class GameSettings : MonoBehaviour
 {
+    public int mouseSens = 10;
     public int[] damageScalar;
     public int damageIndex = 0;
 
